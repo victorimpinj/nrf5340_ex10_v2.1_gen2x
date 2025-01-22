@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "ex10_ramp_module_manager.h": "c",
+        "event_packet_parser.h": "c",
+        "calibration.h": "c",
+        "calibration_lut_gen2x.h": "c",
+        "ex10_inventory_command_line_helper.h": "c",
+        "event_fifo_printer_gen2x.h": "c",
+        "ex10_continuous_inventory_use_case_gen2x.h": "c",
+        "rssi_compensation_lut_gen2x.h": "c",
+        "ex10_rx_baseband_filter_gen2x.h": "c"
+    }
+}

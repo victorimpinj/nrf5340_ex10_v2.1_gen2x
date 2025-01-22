@@ -1,0 +1,12 @@
+*** Booting nRF Connect SDK v3.5.99-ncs1-1 ***
+Starting nrf5340dk_nrf5340_cpuapp with CPU frequency: 128 MHz
+Starting continuous inventory example
+SKU,Tx power (cdBm),Reader mode,Target spec,Initial Q,Region Name,Duration (ms),Session,Scan cr,Scan protection,Scan id,Local time
+710,3000,141,D,8,FCC,0,0
+Timestamp(us),Target,ChannelFreq(kHz),Antenna,ReaderMode,PacketType,EpcLength(bytes),EPC,PhaseStart,PhaseEnd,RSSI(cdBm),MultiReadTimes
+44586,D,926250,1,141,T5,12,E28011B0A505006B93AC6DAF,230,229,-4742,49
+49742,D,926250,1,141,T5,12,E28011B0A505006B93AC0EA0,1694,1688,-3671,49
+56901,D,926250,1,141,T5,12,E2004714A08068210203010A,3358,3358,-5175,49
+60328,D,926250,1,141,T5,12,E28011B0A505006B93AC6DAD,3899,3901,-3859,49
+64807,D,926250,1,141,T5,12,E2806894000040169B9519CA,1758,1750,-4244,49
+77755,D,926250,1,141,T5,12,E28011B0A505006B93AC6DAE,1120,1116,-4150,49
